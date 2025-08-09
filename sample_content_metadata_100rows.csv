@@ -1,0 +1,101 @@
+level1_category_name,level2_category_name,leaf_category_name,attribute_type_count,total_attribute_option_count,merchant_count,filterable_label_count,content_creation_date,cv_tags,content_id_hashed
+Ayakkabı,Günlük Ayakkabı,Casual Ayakkabı,1.0,6.0,1.0,4.0,2024-03-01 00:00:00+00:00,,8dd1dce889d0e207
+Giyim,Üst Giyim,T-Shirt,1.0,8.0,2.0,1.0,2022-03-25 00:00:00+00:00,"sokak şıklığı, rahat kesim, sokak modası",11e60da7c60ab5ea
+Aksesuar,Takı & Mücevher,Bijuteri Kolye,1.0,1.0,1.0,0.0,2024-08-24 00:00:00+00:00,,7562f0d2c8889460
+Aksesuar,Gözlük,Güneş Gözlüğü,1.0,1.0,1.0,0.0,2025-07-03 00:00:00+00:00,"güneş gözlüğü, şık, ramones, göz alıcı",4c0a5002398cc709
+Giyim,Üst Giyim,Softshell & Polar,1.0,6.0,2.0,12.0,2020-10-06 00:00:00+00:00,"hafif, daha büyük bireyler, kışın kat kat giyinme, kat kat giyinme, sıcak",41c07524d0266f79
+Aksesuar,Takı & Mücevher,Gümüş Küpe,1.0,1.0,1.0,0.0,2019-05-13 00:00:00+00:00,,fa622df0db930c8f
+Aksesuar,Saç Aksesuarı,Toka,1.0,1.0,1.0,0.0,2022-04-14 00:00:00+00:00,"sonbahar, dikkat çekici, aksesuar, yeşil ve altın, kıvrımlı",5a4ea9e163cf34e7
+Giyim,Dış Giyim,Ceket,1.0,4.0,1.0,1.0,2025-05-08 00:00:00+00:00,"sonbahar2015, ofis giyimi, büyük beden modası, temel, iş, randevu gecesi, kahve, nötr",565dc2d428b303b8
+Giyim,Tesettür Giyim,Tesettür Abiye,1.0,6.0,1.0,1.0,2024-12-05 00:00:00+00:00,"gizemli, mütevazı, canlı, nedime, akşam, resmi durum, koyu renk teması, akşam kıyafeti",198e5dfdb073c234
+Aksesuar,Takı & Mücevher,Bijuteri Bileklik,1.0,3.0,1.0,0.0,2024-10-02 00:00:00+00:00,,ee2a6caa42e77f8b
+Aksesuar,Çanta,Sırt Çantası,1.0,1.0,1.0,0.0,2025-03-18 00:00:00+00:00,,aa543482b91ad30d
+Giyim,Üst Giyim,Gömlek,1.0,3.0,27.0,0.0,2025-03-25 00:00:00+00:00,"kulüp, parti kıyafeti, pastel gotik, baharın vazgeçilmezleri, kawaii, havuz partisi, mavi ve gümüş, bahar yaz2015, nötr, bahar güneşi, yaz modası",d3c934376774dd87
+Giyim,Kimono & Kaftan,Kimono & Kaftan,1.0,1.0,2.0,0.0,2024-08-21 00:00:00+00:00,"yaz sandaletleri, güneş şapkası, julie, güneş, canlı, yaz görünümü, tatil yeri, yaz modası, parlaklar, güneş gözlüğü",2356a92883c77418
+Aksesuar,Takı & Mücevher,Bijuteri Yüzük,1.0,1.0,1.0,0.0,2023-12-13 00:00:00+00:00,,0af22e5f4856dbc7
+Giyim,Ev Giyim,Pijama Takımı,0.0,0.0,0.0,0.0,2024-09-27 00:00:00+00:00,,3b244fec0888c6b8
+Giyim,Üst Giyim,Sweatshirt,1.0,1.0,1.0,1.0,2023-11-24 00:00:00+00:00,"kırmızı beyaz mavi, meyve, gül, kawaii, emoji modası, nakış",d3448b5833918aad
+Giyim,Alt Giyim,Eşofman Altı,1.0,4.0,1.0,0.0,2025-01-13 00:00:00+00:00,"ev kıyafeti, egzersiz, zumba, hafta sonu, sportif, rahat kesim, sevgi dolu, günlük, aptal, daha büyük bireyler",d0eb097fa12c5ea5
+Giyim,Spor Giyim,Spor Sweatshirt,1.0,6.0,7.0,4.0,2024-10-08 00:00:00+00:00,"köpekler, spor giyim, hafta sonu, koşu ayakkabıları, daha büyük bireyler, sıcak",16be9a0a64aea15b
+Aksesuar,Saat,Saat,1.0,1.0,1.0,0.0,2025-07-10 00:00:00+00:00,mavi ve gümüş,618033f63b3cdd87
+Giyim,Bebek Giyim,Bebek Takımı,1.0,4.0,1.0,0.0,2022-01-28 00:00:00+00:00,,61dc339255c3755d
+Giyim,Alt Giyim,Şort & Bermuda,1.0,5.0,1.0,1.0,2025-04-16 00:00:00+00:00,,571d488dc5d4ad71
+Ayakkabı,Sandalet ve Terlik,Sandalet,1.0,6.0,4.0,23.0,2025-06-03 00:00:00+00:00,,f0806ccf13199e2b
+Aksesuar,Takı & Mücevher,Pırlanta Küpe,1.0,1.0,1.0,0.0,2024-08-05 00:00:00+00:00,,a3246d6c6a21e659
+Ayakkabı,Sandalet ve Terlik,Sandalet,1.0,7.0,1.0,4.0,2025-03-26 00:00:00+00:00,,8d6e57a736da56fd
+Giyim,Tesettür Giyim,Tesettür Tunik,1.0,3.0,1.0,1.0,2025-01-14 00:00:00+00:00,"beyaz üzerine beyaz, kırmızı beyaz mavi, nakış, işleme",946f99e57a51f0e8
+Giyim,Takımlar,Alt - Üst Takım,1.0,5.0,1.0,0.0,2025-06-02 00:00:00+00:00,,69fd3d86e7015ee8
+Giyim,Üst Giyim,Gömlek,1.0,5.0,1.0,0.0,2025-06-05 00:00:00+00:00,"günlük, ev kıyafeti, damat, joel, tatil yeri, rahat kesim",3d927267657c13c7
+Giyim,Tesettür Giyim,Eşarp,1.0,2.0,6.0,3.0,2025-03-06 00:00:00+00:00,,71a0b7dfe08aa1c2
+Giyim,İç Giyim,Külot,1.0,1.0,1.0,1.0,2021-12-30 00:00:00+00:00,,71c2438c16fb37b3
+Ayakkabı,Spor Ayakkabı,Sneaker,1.0,5.0,6.0,0.0,2023-09-16 00:00:00+00:00,"koşu, beyaz üzerine beyaz, tenis, koşu ayakkabıları",a11f97d08624ae56
+Aksesuar,Çanta,Cüzdan,1.0,1.0,1.0,0.0,2025-01-23 00:00:00+00:00,,132741501ef5e34c
+Giyim,Üst Giyim,Büstiyer,1.0,5.0,1.0,2.0,2025-04-02 00:00:00+00:00,"nötr, temel, deri, iş, ofis giyimi, sonbahar2015, daha büyük göğüsler, sonbahar2014, ucuz şık, sonbahar trendi",1f9150208b054b03
+Giyim,İç Giyim,İç Çamaşırı Takımı,1.0,4.0,12.0,5.0,2021-11-20 00:00:00+00:00,"koşu, köpekler, daha büyük bireyler, hafta sonu, koşu ayakkabıları, spor giyim, artı bir için, daha büyük göğüsler",7f0588cdb9c4d5ba
+Giyim,Abiye & Mezuniyet Elbisesi,Abiye & Mezuniyet Elbisesi,1.0,4.0,2.0,1.0,2024-08-08 00:00:00+00:00,"elbise, canlı, gizemli, akşam kıyafeti, resmi durum, resmi durumlar, kıvrımlı",fc5b71765807512d
+Giyim,Üst Giyim,T-Shirt,1.0,3.0,1.0,1.0,2025-04-22 00:00:00+00:00,"temel, kahve, topraksı, dikkat çekici, sonbahar, rahat kesim, daha büyük göğüsler",417522467232144f
+Giyim,Dış Giyim,Mont,1.0,3.0,1.0,4.0,2024-10-24 00:00:00+00:00,,8bc97466a6c5f3a5
+Giyim,Büyük Beden,Büyük Beden Elbise,1.0,7.0,1.0,0.0,2025-03-11 00:00:00+00:00,"hayvan baskısı, canlı, güneş, grafiti, baskılı, plaj, daha büyük göğüsler, artı bir için, büyük beden modası, grafik",10227ca573fe8f28
+Giyim,Plaj Giyim,Mayo,1.0,5.0,2.0,5.0,2024-07-23 00:00:00+00:00,"sulu boya, yaz modası, aerobik, havuz partisi, plaj/havuz, sörf, tatil, yaz güzelliği, yazın vazgeçilmezleri, suluboya, mavi ve gümüş",5343e939cb88eff6
+Aksesuar,Atkı & Bere & Eldiven,Eldiven,1.0,1.0,2.0,0.0,2023-03-18 00:00:00+00:00,"düğün, gelin, 1920'ler, zarafet, 1930'lar",207b5fa895433ade
+Aksesuar,Takı & Mücevher,Çelik Bileklik,1.0,1.0,1.0,0.0,2024-10-22 00:00:00+00:00,,f77e4832abdc89e1
+Giyim,Takımlar,Alt - Üst Takım,1.0,3.0,1.0,2.0,2025-03-22 00:00:00+00:00,"yaz sandaletleri, havuz partisi, yaz modası, yazın vazgeçilmezleri, kulüpler, güneş ışığı, balayı, kesikler, kulüp, gece hayatı",2191dadc5b076dc5
+Ayakkabı,Günlük Ayakkabı,Loafer Ayakkabı,1.0,5.0,5.0,2.0,2022-03-08 00:00:00+00:00,,e2b263587f685e6a
+Aksesuar,Atkı & Bere & Eldiven,Bere,1.0,1.0,1.0,0.0,2023-03-27 00:00:00+00:00,,f936ec4b9878932e
+Aksesuar,Çanta,Abiye Çanta,1.0,1.0,1.0,5.0,2024-07-04 00:00:00+00:00,"parıltı, zarafet, akşam kıyafeti, resmi durum",2f2df61e2e4adaf3
+Aksesuar,Saç Aksesuarı,Taç,1.0,1.0,1.0,0.0,2025-06-16 00:00:00+00:00,,266eeb1727766e5a
+Aksesuar,Gözlük,Güneş Gözlüğü,1.0,1.0,1.0,2.0,2023-11-20 00:00:00+00:00,,3e0638b04294b8a7
+Giyim,Spor Giyim,Spor T-Shirt,1.0,2.0,3.0,2.0,2022-12-07 00:00:00+00:00,koşu,a4b97d7d091081ad
+Aksesuar,Takı & Mücevher,Çelik Bileklik,1.0,1.0,1.0,0.0,2024-12-29 00:00:00+00:00,parıltı,940e402ec97636f7
+Aksesuar,Çanta,Omuz Çantası,1.0,1.0,1.0,0.0,2024-08-12 00:00:00+00:00,"kafe, kore dizisi, noche",03e8a1da5951ffd2
+Ayakkabı,Günlük Ayakkabı,Klasik Ayakkabı,1.0,5.0,1.0,1.0,2025-05-05 00:00:00+00:00,,00a0cf3996a6b270
+Giyim,Ev Giyim,Pijama Takımı,1.0,4.0,1.0,1.0,2025-01-14 00:00:00+00:00,"nakış, ev kıyafeti, köpekler, rahat kesim, daha büyük bireyler, kelebek, kuş, pastel gotik, günlük, böcek",90513666af81777e
+Aksesuar,Takı & Mücevher,Bijuteri Küpe,1.0,1.0,1.0,0.0,2025-02-22 00:00:00+00:00,,320dc961ff356f53
+Hobi & Eğlence,Hediyelik Ürünler,Konsept Hediyelik,1.0,1.0,2.0,3.0,2025-03-19 00:00:00+00:00,,0181de974f90d48f
+Ayakkabı,Topuklu Ayakkabı,Klasik Topuklu Ayakkabı,1.0,8.0,3.0,2.0,2024-08-07 00:00:00+00:00,,2643eaf7dfd5bb42
+Aksesuar,Takı & Mücevher,Bijuteri Kolye,1.0,1.0,1.0,0.0,2024-03-18 00:00:00+00:00,"palm beach, sörf, tropikal, boho şık, tatil yeri, harry potter",8f738d0cff1c9bdb
+Giyim,İç Giyim,Külot,1.0,4.0,8.0,4.0,2020-10-07 00:00:00+00:00,,d9f0bff7c30e97b6
+Aksesuar,Diğer Aksesuar,Diğer Aksesuarlar,1.0,1.0,1.0,1.0,2025-01-18 00:00:00+00:00,,ebbd0358e3c49e18
+Aksesuar,Takı & Mücevher,Gümüş Kolye,1.0,1.0,1.0,0.0,2024-02-20 00:00:00+00:00,,934d8aa84fa4e5f5
+Giyim,Bebek Giyim,Bebek Takımı,1.0,6.0,2.0,3.0,2024-05-14 00:00:00+00:00,,200ab96e48770596
+Aksesuar,Gözlük,Güneş Gözlüğü,1.0,1.0,1.0,0.0,2025-05-03 00:00:00+00:00,güneş gözlüğü,edcd8e4182d0c9e5
+Giyim,Tesettür Giyim,Tesettür Bluz,1.0,5.0,1.0,2.0,2024-11-21 00:00:00+00:00,"koyu renk teması, nakış, işleme, günlük, kırmızı beyaz mavi, iş yeri, pembe ve beyaz, saten, rahat kesim",85a9387b55a75d70
+Ayakkabı,Günlük Ayakkabı,Casual Ayakkabı,1.0,5.0,1.0,0.0,2024-09-12 00:00:00+00:00,"damat, yeşil ve altın, iş kıyafeti, iş, koşu ayakkabıları, gündelik şık, rahat, günlük, farkındalık, artı bir için, topraksı, medya, rahat kesim, akıllı, klasik, gündelik, temel, erkeksi, ev kıyafeti",98c3c7bbe8f58ce1
+Ayakkabı,Günlük Ayakkabı,Loafer Ayakkabı,1.0,4.0,1.0,0.0,2024-11-08 00:00:00+00:00,sokak modası,e4be7f9dd96876a6
+Ayakkabı,Sandalet ve Terlik,Sandalet,1.0,5.0,1.0,16.0,2024-09-21 00:00:00+00:00,,82374967d6ecd7ab
+Ayakkabı,Topuklu Ayakkabı,Klasik Topuklu Ayakkabı,1.0,7.0,1.0,1.0,2023-04-29 00:00:00+00:00,"yeşil ve altın, suluboya, parlak renk teması, parlaklar, canlı, sulu boya, renk patlaması temalı, pop, genç, renkli",f756de35e2617238
+Ayakkabı,Bot & Çizme,Bot & Bootie,1.0,5.0,1.0,0.0,2023-11-03 00:00:00+00:00,bahar çizmeleri,ba893c0cd3f60266
+Aksesuar,Çanta,Omuz Çantası,1.0,1.0,1.0,0.0,2025-07-02 00:00:00+00:00,"medya, sokak modası",4ea85f46bdc98aae
+Aksesuar,Takı & Mücevher,Kolye Ucu,1.0,1.0,1.0,0.0,2023-07-03 00:00:00+00:00,,62600eeb5a596eb5
+Giyim,Alt Giyim,Pantolon,1.0,4.0,1.0,0.0,2022-04-04 00:00:00+00:00,"ofis giyimi, topraksı, daha büyük göğüsler, günlük, rahat kesim",8f3dbd2986b42c2b
+Aksesuar,Çanta,Omuz Çantası,1.0,1.0,1.0,0.0,2023-06-01 00:00:00+00:00,,e981d212e960ac71
+Giyim,Plaj Giyim,Deniz Şortu,1.0,6.0,1.0,0.0,2019-06-12 00:00:00+00:00,"plaj, daha büyük göğüsler, palm beach, baskılı, tatil yeri, plaj/havuz",39d63645ddc2a3d2
+Giyim,Ev Giyim,Pijama Takımı,1.0,3.0,1.0,2.0,2025-04-18 00:00:00+00:00,"kediler, komik, rahat, palyaço, pokemon, tilki, aptal, desen, yaban hayatı, baskılı",510e586d97a6b4ba
+Giyim,Üst Giyim,Hırka,1.0,1.0,1.0,0.0,2025-03-10 00:00:00+00:00,"baharlık hırka, sonbahar şapkası, nötr, örgü, kulüp, tatil, beyaz üzerine beyaz",72a5f45f9e4e5a09
+Aksesuar,Saç Aksesuarı,Toka,1.0,1.0,1.0,0.0,2021-06-04 00:00:00+00:00,,67d41760b66a94b7
+Aksesuar,Takı & Mücevher,Çelik Bileklik,1.0,1.0,1.0,0.0,2025-05-20 00:00:00+00:00,,caac31a6e024f3ad
+Aksesuar,Saç Aksesuarı,Bandana,1.0,1.0,1.0,0.0,2025-06-16 00:00:00+00:00,,dbfa2bd5124a4799
+Giyim,Alt Giyim,Etek,1.0,4.0,1.0,0.0,2025-02-17 00:00:00+00:00,"büyük beden modası, ofis giyimi",b07e0166ba92eac4
+Giyim,Fantezi Giyim,Fantezi String,1.0,4.0,1.0,0.0,2023-02-22 00:00:00+00:00,,fc034703f3c9214b
+Giyim,Büyük Beden,Büyük Beden Kazak,1.0,2.0,1.0,1.0,2024-12-11 00:00:00+00:00,"kışın kat kat giyinme, hafif, kat kat giyinme, örgü, mükemmel, daha büyük bireyler, artı bir için, nakış, günlük, koyu renk teması",a2c5c44d2dde5a40
+Ayakkabı,Ev Terliği & Botu,Ev Terliği,1.0,4.0,1.0,1.0,2024-12-02 00:00:00+00:00,,9869827cb4b8a9af
+Giyim,Tesettür Giyim,Eşarp,1.0,1.0,4.0,1.0,2023-03-31 00:00:00+00:00,,67ed7514f2bc060a
+Aksesuar,Diğer Aksesuar,Gelin Aksesuarı,1.0,1.0,1.0,0.0,2020-04-21 00:00:00+00:00,,d54e8c1b5757df15
+Giyim,Alt Giyim,Şort & Bermuda,1.0,7.0,2.0,1.0,2024-05-14 00:00:00+00:00,"daha büyük göğüsler, kot",ec093c7537f42c9c
+Aksesuar,Takı & Mücevher,Çelik Bileklik,1.0,1.0,1.0,0.0,2025-05-16 00:00:00+00:00,,c6719befe3b5cefd
+Giyim,Üst Giyim,Sweatshirt,1.0,4.0,2.0,2.0,2024-12-11 00:00:00+00:00,,38b484f179b8ed8b
+Giyim,Üst Giyim,Kazak,1.0,1.0,1.0,0.0,2024-11-03 00:00:00+00:00,"kafe, kışın kat kat giyinme, baharlık hırka, yeşil ve altın, sonbahar, daha soğuk, büyük beden modası, sonbahar şapkası, kış modası, dikkat çekici",1b22c1caaa6ebb77
+Giyim,Bebek Giyim,Bebek Body & Zıbın,1.0,4.0,1.0,0.0,2025-05-16 00:00:00+00:00,,b504a94caee47f4a
+Giyim,Alt Giyim,Jeans,1.0,8.0,3.0,3.0,2023-12-29 00:00:00+00:00,"nötr, rahat kesim, daha büyük göğüsler, ev kıyafeti",294f99ad2ad3d511
+Giyim,Üst Giyim,T-Shirt,1.0,2.0,1.0,0.0,2025-06-04 00:00:00+00:00,,e0a8d35753683d76
+Aksesuar,Çanta,Omuz Çantası,1.0,1.0,1.0,0.0,2025-04-25 00:00:00+00:00,"zarafet, genç, günlük, ucuz şık, aksesuar",dc5f733c67f640f8
+Ayakkabı,Spor Ayakkabı,Koşu Ayakkabısı,1.0,10.0,2.0,0.0,2023-11-11 00:00:00+00:00,"koşu ayakkabıları, koşu",198da962de5c7a49
+Ayakkabı,Günlük Ayakkabı,Casual Ayakkabı,1.0,5.0,2.0,0.0,2025-05-14 00:00:00+00:00,,94e7927b1e6d139d
+Giyim,Üst Giyim,T-Shirt,1.0,12.0,1.0,2.0,2023-05-14 00:00:00+00:00,,4e5f9339fa1cee3b
+Giyim,Üst Giyim,Sweatshirt,1.0,3.0,2.0,1.0,2025-01-15 00:00:00+00:00,"çizgiler, güneş ışığı, çizgili, medya, kırmızı ve siyah, yaz modası, sevgi dolu, kulüp, büyük beden modası, tamamen siyah, mavi ve siyah",706f803c1406a300
+Giyim,Üst Giyim,Gömlek,1.0,3.0,1.0,1.0,2025-05-04 00:00:00+00:00,"mavi ve gümüş, çizgili, rahat kesim, çizgiler, sayısal",889ac6c72ffe7249
+Giyim,Elbise,Elbise,1.0,1.0,1.0,0.0,2024-11-08 00:00:00+00:00,"tamamen siyah, günlük, büyük beden modası, kırmızı ve siyah, akşam kıyafeti, akşam, koyu renk teması, siyah altın, resmi durum, kırmızı siyah",c24632c0fe63fe8a
+Aksesuar,Takı & Mücevher,Gümüş Küpe,1.0,1.0,1.0,0.0,2022-11-11 00:00:00+00:00,,4ce4bea37bc0b219
+Giyim,Alt Giyim,Eşofman Takımı,1.0,5.0,1.0,1.0,2025-03-14 00:00:00+00:00,"ev kıyafeti, hafta sonu, spor giyim, köpekler, tamamen siyah, koşu ayakkabıları, sportif, daha büyük bireyler, egzersiz, koşu",d75ae312b3bbb4af
+Aksesuar,Gözlük,Gözlük Aksesuarı,1.0,1.0,1.0,1.0,2024-05-29 00:00:00+00:00,,4cfb81088d928e8d
+Giyim,Üst Giyim,T-Shirt,1.0,8.0,2.0,1.0,2025-05-03 00:00:00+00:00,,66282c9dc22d4095
